@@ -1,4 +1,4 @@
 ---
 helm:
   repo: https://opensearch-project.github.io/helm-charts/
-  chart: opensearch-dashboard
+  chart: opensearch-dashboards
