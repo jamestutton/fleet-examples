@@ -1,1 +1,4 @@
 defaultNamespace: filebeat
+helm:
+  repo: https://helm.elastic.co
+  chart: elastic/filebeat
