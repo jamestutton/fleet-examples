@@ -1,0 +1,5 @@
+defaultNamespace: filebeat
+helm:
+  releaseName: elastic
+  chart: elastic/filebeat
+  repo: https://helm.elastic.co
