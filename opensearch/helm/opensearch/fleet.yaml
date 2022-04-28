@@ -4,4 +4,4 @@ helm:
   repo: https://opensearch-project.github.io/helm-charts/
   chart: opensearch
   valueFiles:
-    - values.yaml
+    - custom-values.yaml
